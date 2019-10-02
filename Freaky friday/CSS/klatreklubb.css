@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: white;
+}
+a:hover {
+    background-color: whitesmoke;
+    padding: 10px;
+}
+/*--------------Hjem--------------------*/
+.header1 {
+    font-size: 60px;
+    padding: 15px;
+    font-family: fantasy;
+    color: #423075;
+    width: 100&;
+}
+header {
+    font-size: 40px;
+    padding: 15px;
+    font-family: fantasy;
+    color: #423075;
+    width: 100&;
+}
+.header2 {
+    font-size: 50px;
+    padding: 15px;
+    font-family: fantasy;
+    color: #FF712D;
+    width: 100&;
+}
+.navigasjon {
+    border: 2px solid #FF712D;
+    margin: 15px;
+    padding: 1px;
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+    margin: 20px;
+    color: #FF712D;
+}
+img {
+    width: 1010px;
+    margin: 15px;
+    float: left;
+}
+.allText {
+    padding: 10px;
+    display: inline-block;
+    margin-left: 60px;
+}
+.text1 {
+    border: 3px solid #423075;
+    margin-bottom: 60px; 
+    padding: 30px;
+}
+.text2 {
+    border: 3px solid #423075;
+    padding: 30px;
+}
+h2 {
+    text-align: center;
+}
+.fotoLink {
+    position: relative;
+    top: 44em;
+    right: 66em;
+    padding: 1em;
+}
+/*--------------Om oss--------------------*/
+.instruk img {
+    width: 300px;
+    border: 3px solid #423075;
+    position: absolute;
+}
+.instruk2 img {
+    width: 300px;
+    border: 3px solid #423075;
+    margin-top: 30%;
+}
+.instrukTekst  {
+    padding: 50px;
+    font-size: 20px;
+}
+.instruk2Tekst {
+    padding: 100px;
+    font-size: 20px;
+}
+.p4 {
+    position: relative;
+    top: 25em;
+    left: 1em;
+    
+}
+.p5 {
+    position: relative;
+    top: 51em;
+    right: 21em;
+    padding: 1em;
+}
+/*--------------Sikkerhet-----------------*/
+.bokser  {
+    display: inline-block;
+}
+.boks {
+   float: left;
+   border: 2px solid #403075;
+   margin-bottom: 50px;
+   margin-left: 10px;
+   padding: 10px;
+}
+.boks1 {
+    float: right;
+    margin-left: 120px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border: 2px solid #403075;
+}
+.boks2 {
+    float: right;
+    border: 2px solid #403075;
+    padding: 10px;
+    margin-bottom: 50px;
+    margin-left: 120px
+}
+  
