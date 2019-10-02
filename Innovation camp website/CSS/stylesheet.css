@@ -1,0 +1,153 @@
+body {
+    background-color: white;
+}
+.top {
+    width: 100%;
+}
+/*OVERSKRIFT-------------------------------------------------*/
+.header {
+    text-align: center;
+    font-size: 60px;
+    padding: 10px;
+    font-family: fantasy;
+    color: #98dc7c;
+}
+a {
+    text-decoration: none; 
+    margin: 30px;
+    font-size: 30px;
+    color: white;
+    
+}
+a:hover {
+    background-color: #98dc7c;
+}
+/*NAVIGASJON--------------------------------------------------*/
+.nav {
+    width: 100%; 
+    border: 1px solid #66a461;
+    background-color: #66a461;
+    text-align: center;
+    font-family: fantasy;
+}
+/*HOVEDBILDE PAGE TELLTAB-------------------------------------*/
+.pic {
+    padding: 40px; 
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-color: #98dc7c;
+}
+.bildeTekst {
+    color: #66a461;
+    position: relative;
+    left: -2em;
+    font-size: 70%;
+}
+/*THE IDEA PAGE 2----------------------------------------------*/
+h2 {
+   color: #98dc7c;
+    text-align: center;
+}
+.idea {
+    width: 80%;
+    background-color: #fffff3;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-bottom: 10px;
+    font-size: 25px;
+    line-height: 50px;
+    border: 5px solid #fffff3;
+    border-radius: 15px;
+}
+/*MEMBER COUNTRIES PAGE 3---------------------------------------*/
+h1 {
+    color: #98dc7c;
+    font-family: sans-serif;
+    text-align: center;
+    width: 90%;
+    margin-left: 65px;
+    
+}
+.flags {
+    padding: 60px;
+    width: 80%;
+    background-color: #fffff3;
+    margin-left: 80px;
+}
+.flags img {
+    position: relative;
+    left: 14em;
+}
+.flaggTekst {
+    color: #66a461;
+    position: relative;
+    top: 3em;
+    right: 15em;
+    font-size: 70%;
+}
+/*ABOUT US PAGE ONE---------------------------------------------*/
+.picturesAbout img{
+    margin: 4em; 
+    color: #98dc7c;   
+}
+
+.textAbout {
+    padding: 10px;
+}
+
+.boks {
+    display: inline-block;
+    margin: 80px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+.p1 {
+    position: relative;
+    color: #66a461;
+    bottom: 7em;
+    left: 4em;
+    font-size: 60%;
+
+}
+.p2 {
+    position: relative;
+    color: #66a461;
+    bottom: 7em;
+    left: 40em;
+    font-size: 60%;
+}
+.p3 {
+    position: relative;
+    color: #66a461;
+    bottom: 7em;
+    left: 72em;
+    font-size: 60%;
+}
+
+
+/*FOOTER---------------------------------------------------------*/
+.footer {
+    margin: 50px;
+    border-top: 3px solid #66a461;
+    padding: 20px;
+    padding-bottom: 20px;
+}
+.bottom-left {
+    float: left;
+}
+.bottom-middle {
+    float: left;
+    margin-left: 350px;
+}
+.bottom-right {
+    float: right;
+}
+.bottom-right p {
+    color: darkcyan;
+    font-size: 25px;
+    text-align: center;
+}
